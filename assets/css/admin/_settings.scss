@@ -1,0 +1,11 @@
+.bt-label.pro {
+  &::after {
+    content: 'PRO';
+    font-size: 9px;
+    font-weight: 400;
+    background: red;
+    color: #ffffff;
+    padding: 0 5px;
+    line-height: 1;
+  }
+}
